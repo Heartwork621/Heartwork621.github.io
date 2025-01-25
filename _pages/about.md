@@ -9,7 +9,7 @@ redirect_from:
 
 早上好中国！
 
-[Wechat](../image/WechatQRcode.jpg)
+[Wechat](../images/WechatQRcode.jpg)
 
 Can you see me Dinosaur?
 ======
