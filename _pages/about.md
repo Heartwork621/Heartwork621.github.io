@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 早上好中国！
+
 [Wechat](../image/WechatQRcode.jpg)
 
 Can you see me Dinosaur?
