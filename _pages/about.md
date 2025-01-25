@@ -37,7 +37,5 @@ The repository includes [a set of Jupyter notebooks](https://github.com/academic
 
 This is my guitar
 ------
-
-Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/PRSguitar.png)
 
