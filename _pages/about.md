@@ -19,7 +19,7 @@ You can find my resume here:[Guoxun Wu's resume]
 
 *As a guitarist*
 ------
-After entering university, I taught myself to play the electric guitar. Now, music has become an integral part of my life. I find pleasure in playing metal music. 
+After entering university, I taught myself to play the electric guitar. Now, music has become an integral part of my life. I find pleasure in playing many kinds of music, especially metal music. 
 
 Here's a photo of my lovely guitar.
 
