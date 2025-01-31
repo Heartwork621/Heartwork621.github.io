@@ -15,7 +15,7 @@ Since high school, I have wanted to become a surgeon, and my experience at Zhong
 
 You can find my resume here:[Guoxun Wu's resume]
 
-[Wechat](../images/WechatQRcode.jpg)
+[Email](wugx26@mail2.sysu.edu.cn)/[Wechat](../images/WechatQRcode.jpg)
 
 *As a guitarist*
 ------
