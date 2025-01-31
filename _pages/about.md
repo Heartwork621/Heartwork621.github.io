@@ -6,7 +6,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-**As a medical student**
+
+
+As a medical student
+---------
 I'm a forth year undergraduate medical student from Sun Yat-sen University, majior in clincal medicine. Now I
 
 [Wechat](../images/WechatQRcode.jpg)
