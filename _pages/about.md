@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a forth year undergraduate medical student from [School of Medicine](https://szmed.sysu.edu.cn/zh-hans), [Sun Yat-sen University](https://www.sysu.edu.cn/). I am currently learning at [Sun Yat-sen Memorial Hospital](https://www.gzsys.org.cn/).
+I'm a forth year undergraduate medical student from [School of Medicine](https://szmed.sysu.edu.cn/zh-hans), [Sun Yat-sen University](https://www.sysu.edu.cn/). I am currently learning at [Sun Yat-sen Memorial Hospital](https://www.gzsys.org.cn/). My current GPA is 3.81/5.00, ranking in the top 4% of the grade.
 
 I am very fortune to have previously learnt at [Zhongshan Ophthalmic Center](https://www.gzzoc.com/), where the excellent faculty and world-class medical standards left a deep impression on me. 
 
@@ -19,7 +19,7 @@ You can find my resume here:[Guoxun Wu's resume]
 
 *As a guitarist*
 ------
-After entering university, I taught myself to play the electric guitar. Now, music has become an integral part of my life. I find pleasure in playing many kinds of music, especially metal music. 
+After entering university, I taught myself to play the electric guitar. Music has become an integral part of my life. 
 
 Here's a photo of my lovely guitar.
 
