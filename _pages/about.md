@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a forth year undergraduate medical student from [School of Medicine](https://szmed.sysu.edu.cn/zh-hans), [Sun Yat-sen University](https://www.sysu.edu.cn/). I am currently learning at [Sun Yat-sen Memorial Hospital](https://www.gzsys.org.cn/). My current GPA is 3.81/5.00, ranking in the top 4% of the grade.
+I'm a forth year undergraduate medical student from [School of Medicine](https://szmed.sysu.edu.cn/zh-hans), [Sun Yat-sen University](https://www.sysu.edu.cn/). I am currently learning at [Sun Yat-sen Memorial Hospital](https://www.gzsys.org.cn/). My current GPA is 3.81/5.00, ranking in the top 4% of the grade. Now, I am self-learning R programming and bioinformatics analysis. 
 
 I am very fortune to have previously learnt at [Zhongshan Ophthalmic Center](https://www.gzzoc.com/), where the excellent faculty and world-class medical standards left a deep impression on me. 
 
