@@ -15,7 +15,7 @@ Now, I am self-learning R programming and bioinformatics analysis.
 
 You can find my resume here:[Guoxun Wu's resume]
 
-[Email](wugx26@mail2.sysu.edu.cn) / [Wechat](../images/WechatQRcode.jpg)
+[Email](mailto:wugx26@mail2.sysu.edu.cn) / [Wechat](../images/WechatQRcode.jpg)
 
 *As a guitarist*
 ------
