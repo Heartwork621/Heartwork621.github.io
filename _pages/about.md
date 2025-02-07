@@ -7,22 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I'm a fourth-year undergraduate medical student from [School of Medicine](https://szmed.sysu.edu.cn/zh-hans), [Sun Yat-sen University](https://www.sysu.edu.cn/). I am currently learning at [Sun Yat-sen Memorial Hospital](https://www.gzsys.org.cn/). My current GPA is 3.81/5.00, ranking in the top 5% of the grade. 
+I'm a fourth-year undergraduate medical student at [School of Medicine](https://szmed.sysu.edu.cn/zh-hans), [Sun Yat-sen University](https://www.sysu.edu.cn/). I am currently training at [Sun Yat-sen Memorial Hospital](https://www.gzsys.org.cn/). My current GPA is 3.81/5.00, ranking in the top 5%(16/406) of the grade. 
 
-I am very fortunate to have previously learnt at [Zhongshan Ophthalmic Center](https://www.gzzoc.com/), where the excellent faculty and world-class medical standards left a deep impression on me. 
+During my undergraduate studies, I have gained experience in the following molecular experimental techniques: Western Blot, plasmid amplification, and plasmid extraction.
 
-Now, I am self-learning R programming and bioinformatics analysis. 
+I am currently teaching myself R programming and bioinformatics analysis. 
 
 You can find my resume here:[Guoxun Wu's resume]
 
 [Email](mailto:wugx26@mail2.sysu.edu.cn) / [Wechat](../images/WechatQRcode.jpg)
 
-*As a guitarist*
-------
-After entering university, I taught myself to play the electric guitar. Music has become an integral part of my life. 
 
-Here's a photo of my lovely guitar.
-
-![Editing a markdown file for a talk](/images/PRSguitar.png)
-
-By the way, I am working hard to reach a speed of 200 BPM with sixteenth notes :D
