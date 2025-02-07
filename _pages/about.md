@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/456b0bfd-1f2b-41a1-b7c2-2867e23f0582)---
 permalink: /
 title: "About me"
 author_profile: true
@@ -13,7 +13,7 @@ During my undergraduate studies, I have gained experience in the following molec
 
 I am currently teaching myself R programming and bioinformatics analysis. 
 
-You can find my resume here:[Guoxun Wu's resume]
+You can find my resume here:[Guoxun Wu's resume](../assets/Resume of Guoxun Wu.pdf)
 
 [Email](mailto:wugx26@mail2.sysu.edu.cn) / [Wechat](../images/WechatQRcode.jpg)
 
