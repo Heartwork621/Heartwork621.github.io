@@ -23,7 +23,7 @@ After entering university, I taught myself to play the electric guitar. Music ha
 
 Here's a photo of my lovely guitar.
 
-![Editing a markdown file for a talk](/images/PRSguitar.png)
+![Editing a markdown file for a talk](/images/PRS.png)
 
 By the way, I am working hard to reach a speed of 200 BPM with sixteenth notes :D
 
