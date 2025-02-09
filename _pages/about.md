@@ -17,4 +17,14 @@ You can find my resume here: [Guoxun Wu's resume](../assets/Resume of Guoxun Wu.
 
 [Email](mailto:wugx26@mail2.sysu.edu.cn) / [Wechat](../images/WechatQRcode.jpg)
 
+*My hobby*
+------
+After entering university, I taught myself to play the electric guitar. Music has become an integral part of my life. 
+
+Here's a photo of my lovely guitar.
+
+![Editing a markdown file for a talk](/images/PRSguitar.png)
+
+By the way, I am working hard to reach a speed of 200 BPM with sixteenth notes :D
+
 
