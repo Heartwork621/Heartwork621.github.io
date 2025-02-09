@@ -15,7 +15,7 @@ I am currently teaching myself R programming and bioinformatics analysis.
 
 You can find my resume here: [Guoxun Wu's resume](../assets/Resume of Guoxun Wu.pdf)
 
-[Email](mailto:wugx26@mail2.sysu.edu.cn) / [Wechat](../images/WechatQRcode.jpg)
+[Email](mailto:wugx26@mail2.sysu.edu.cn) 
 
 *My hobby*
 ------
