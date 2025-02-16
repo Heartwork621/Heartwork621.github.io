@@ -11,9 +11,7 @@ I'm a fourth-year undergraduate medical student at [School of Medicine](https://
 
 During my undergraduate studies, I have gained experience in the following molecular experimental techniques: Western Blot, plasmid amplification, and plasmid extraction.
 
-I am currently teaching myself R programming and bioinformatics analysis. 
-
-Here are some images I reproduced using R language (*left*).
+I am currently teaching myself R programming and bioinformatics analysis. Here are some images I reproduced using R language (*left*).
 
 <div style="text-align: center;">
   <img src="/images/BP_RE.png" alt="Image 1" style="display:inline; width:45%; margin-right:10px;">
