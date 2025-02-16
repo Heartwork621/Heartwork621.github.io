@@ -15,14 +15,20 @@ I am currently teaching myself R programming and bioinformatics analysis.
 
 Here are some images I reproduced using R language (*left*).
 
-| ![](/images/BP_RE.png)        | ![](/images/BP.png)           |
-| ----------------------------- | ----------------------------- |
+<div style="text-align: center;">
+  <img src="/images/BP_RE.png" alt="Image 1" style="display:inline; width:45%; margin-right:10px;">
+  <img src="/images/BP.png" alt="Image 2" style="display:inline; width:45%;">
+</div>
 
-|![](/images/KEGG_RE.png)       | ![](/images/KEGG.png)         |
-| ----------------------------- | ----------------------------- |
+<div style="text-align: center;">
+  <img src="/images/KEGG_RE.png" alt="Image 3" style="display:inline; width:45%; margin-right:10px;">
+  <img src="/images/KEGG.png" alt="Image 4" style="display:inline; width:45%;">
+</div>
 
-|![](/images/UMAP_RE.png)       | ![](/images/UMAP.png)         |
-| ----------------------------- | ----------------------------- |
+<div style="text-align: center;">
+  <img src="/images/UMAP_RE.png" alt="Image 5" style="display:inline; width:45%; margin-right:10px;">
+  <img src="/images/UMAP.png" alt="Image 6" style="display:inline; width:45%;">
+</div>
 
 You can find my resume here: [Guoxun Wu's resume](../assets/Resume of Guoxun Wu.pdf)
 
