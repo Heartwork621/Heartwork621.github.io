@@ -15,13 +15,13 @@ I am currently teaching myself R programming and bioinformatics analysis.
 
 Here are some images I reproduced using R language (*left*).
 
-| ![](/images/BP_RE.png) | ![](/images/BP.png)|
+| ![](/images/BP_RE.png)        | ![](/images/BP.png)           |
 | ----------------------------- | ----------------------------- |
 
-|![](/images/KEGG_RE.png)|![](/images/KEGG.png)|
+|![](/images/KEGG_RE.png)       | ![](/images/KEGG.png)         |
 | ----------------------------- | ----------------------------- |
 
-|![](/images/UMAP_RE.png)|![](/images/UMAP.png)|
+|![](/images/UMAP_RE.png)       | ![](/images/UMAP.png)         |
 | ----------------------------- | ----------------------------- |
 
 You can find my resume here: [Guoxun Wu's resume](../assets/Resume of Guoxun Wu.pdf)
