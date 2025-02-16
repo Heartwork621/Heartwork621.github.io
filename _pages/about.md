@@ -13,6 +13,14 @@ During my undergraduate studies, I have gained experience in the following molec
 
 I am currently teaching myself R programming and bioinformatics analysis. 
 
+Here are some images I reproduced using R language (*left*).
+
+![](/images/BP_RE.png) ![](/images/BP.png)
+
+![](/images/KEGG_RE.png) ![](/images/KEGG.png)
+
+![](/images/UMAP_RE.png) ![](/images/UMAP.png)
+
 You can find my resume here: [Guoxun Wu's resume](../assets/Resume of Guoxun Wu.pdf)
 
 [Email](mailto:wugx26@mail2.sysu.edu.cn) 
@@ -23,7 +31,7 @@ After entering university, I taught myself to play the electric guitar. Music ha
 
 Here's a photo of my lovely guitar.
 
-![Editing a markdown file for a talk](/images/PRS.png)
+![](/images/PRS.png)
 
 By the way, I am working hard to reach a speed of 200 BPM with sixteenth notes :D
 
