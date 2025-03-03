@@ -28,7 +28,7 @@ I am currently teaching myself basic R programming and bioinformatics analysis. 
   <img src="/images/UMAP.png" alt="Image 6" style="display:inline; width:45%;">
 </div>
 
-You can find my resume here: [Guoxun Wu's resume](../assets/Resume of Guoxun Wu ver2.pdf)
+You can find my resume here: [Guoxun Wu's resume](../assets/Resume of Guoxun Wu.pdf)
 
 [Email](mailto:wugx26@mail2.sysu.edu.cn) 
 
