@@ -32,15 +32,15 @@ You can find my resume here: [Guoxun Wu's resume](../assets/Resume of Guoxun Wu 
 
 [Email](mailto:wugx26@mail2.sysu.edu.cn) 
 
-<font size=5>Internship</font>
+**<font size=6>Internship</font>**
 ------
-<font size=4>May</font>
+<font size=5>May</font>
 
 I've started my internship since May, 2025. I have to say it is more inspiring than what I thought before. 
 
 ![](/images/May2.png)
 
-<font size=5>My hobby</font>
+**<font size=6>My hobby</font>**
 --------
 After entering university, I taught myself to play the electric guitar. Music has become an integral part of my life. 
 
