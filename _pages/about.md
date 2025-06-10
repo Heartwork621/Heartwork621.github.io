@@ -34,7 +34,7 @@ You can find my resume here: [Guoxun Wu's resume](../assets/Resume of Guoxun Wu 
 
 **<font size=5.5>My internship</font>**
 ------
-<font size=5>May</font>
+<font size=4.5>May</font>
 
 I've started my internship since May, 2025. I have to say it is more inspiring than what I thought before. 
 
