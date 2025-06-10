@@ -32,7 +32,7 @@ You can find my resume here: [Guoxun Wu's resume](../assets/Resume of Guoxun Wu 
 
 [Email](mailto:wugx26@mail2.sysu.edu.cn) 
 
-**<font size=6>Internship</font>**
+**<font size=6>My internship</font>**
 ------
 <font size=5>May</font>
 
